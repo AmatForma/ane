@@ -14,5 +14,6 @@
     <body>
         <h1>Concentration maximal SVP</h1>
         <p> votre texte ici </p>
+        <input type="submit"> 
     </body>
 </html>
