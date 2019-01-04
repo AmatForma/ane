@@ -41,7 +41,7 @@
     <div class="form-check">
     <label class="form-check-label">
       <input type="checkbox" class="form-check-input">
-      <small>Remember Me</small>
+      <small>Afficher password</small>
     </label>
     <button type="submit" class="btn btn-login float-right">Connexion</button>
   </div>
